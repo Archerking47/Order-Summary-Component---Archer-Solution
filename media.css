@@ -1,0 +1,37 @@
+/* at 384px */
+@media (max-width: 24rem) {
+  html {
+    font-size: 56.25%;
+  }
+
+  body {
+    background-image: url(images/pattern-background-mobile.svg);
+  }
+
+  .card {
+    width: 36.3rem;
+  }
+
+  .text-box,
+  .plan-container,
+  .btn {
+    width: 31.1rem;
+  }
+
+  .text-box {
+    padding: 0 1rem;
+    letter-spacing: 0.5px;
+  }
+
+  .description {
+    line-height: 1.7;
+  }
+
+  .plan-container {
+    padding: 1.7rem;
+  }
+
+  .plan-title {
+    margin-bottom: 3px;
+  }
+}
