@@ -108,6 +108,7 @@ body {
 .change-text:visited {
   font-size: 1.4rem;
   font-weight: 900;
+  transition: all 0.3s;
 }
 
 .change-text:hover,
@@ -136,6 +137,7 @@ body {
   border-radius: 1rem;
 
   box-shadow: 0 10px 20px 0 hsla(245, 75%, 52%, 0.3);
+  transition: all 0.3s;
 }
 
 .payment-btn:hover,
@@ -148,6 +150,7 @@ body {
   font-weight: 900;
   color: var(--Desaturated_blue);
   margin-bottom: 3rem;
+  transition: all 0.3s;
 }
 
 .cancel-btn:hover,
